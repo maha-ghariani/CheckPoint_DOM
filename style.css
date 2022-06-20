@@ -39,8 +39,10 @@ body{
     background-color: rgba(140, 145, 145, 0.039);
 }
 .Price_card{
-   padding-bottom: 2.85%;
+   padding-bottom: 2%;
    padding-left: 25px;
+  
+   width: 200px;
 }
 .souscard{
   margin-top:5%;
@@ -71,4 +73,9 @@ body{
 
 span{
     font-size: 21px;
+}
+.like{
+    padding-left: 550px;
+    padding-bottom: 30px;
+    
 }
